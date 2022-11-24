@@ -82,7 +82,7 @@
              <Link href='https://status.open-vsx.org/'>
                  <Typography variant='body2' color='textPrimary' className={classes.alignVertically}>
                      <MenuBookIcon className={classes.itemIcon} />
-                     Status
+                     Stauts
                  </Typography>
              </Link>
          </MenuItem>
